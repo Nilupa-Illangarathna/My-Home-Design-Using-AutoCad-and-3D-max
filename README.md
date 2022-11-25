@@ -20,6 +20,5 @@
 ![WALL LAMP 1](https://user-images.githubusercontent.com/95247831/204016541-4ca0f847-2c32-4463-acc2-e6e74b6171c7.jpg)
 ![SOFA SET 1](https://user-images.githubusercontent.com/95247831/204016546-82141f8f-5e29-4895-b3c2-568b2ae4a933.jpg)
 ![GUEST TABLE](https://user-images.githubusercontent.com/95247831/204016554-f96256c5-e652-4857-8258-509f6e5955e5.jpg)
-![CHIMINI 1](https://user-images.githubusercontent.com/95247831/204016559-f7fe7b33-4b11-4ab7-94
+![CHIMINI 1](https://user-images.githubusercontent.com/95247831/204016559-f7fe7b33-4b11-4ab7-94e0-c2c6959b724c.jpg)
 ![BATHROOM MIRRER](https://user-images.githubusercontent.com/95247831/204016564-b359e7b0-3194-440f-ad28-172fcddd3b24.jpg)
-e0-c2c6959b724c.jpg)
