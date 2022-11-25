@@ -1,5 +1,7 @@
 # My-Home-Design-Using-AutoCad-and-3D-max
 
+## For this, No blocks from the internet was used. All the blocks and models were designed from 2D drawings to the end.
+
 ## All cad files with blocks and purged cad file is in the repository. The 3D max file is also included with added materials.
 
 ## Some sample rendered images you may find below. 
