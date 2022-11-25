@@ -12,3 +12,5 @@
 ![8K INSIDE](https://user-images.githubusercontent.com/95247831/204015026-f45b17fd-fe54-45fb-8f01-2cb3cb821439.jpg)
 ![Guest Room](https://user-images.githubusercontent.com/95247831/204015135-ce27e5e2-4caf-42c1-96ea-f2370c8f3b8d.jpg)
 ![Mother's room](https://user-images.githubusercontent.com/95247831/204015175-bd8da0bb-dbe6-4e8c-8243-7e7dddb32364.jpg)
+
+### Apart of above, Some 3D blocks were seperatily rendered. 
